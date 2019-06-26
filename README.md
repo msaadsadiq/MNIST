@@ -1,5 +1,7 @@
-# MNIST
-Various machine learning programs working with the MNIST dataset.
+# CNN based MNIST
+This is a simple Convolutional Neural Network that classifies MNIST hand written digits 0-9. 
+
+![alt-text](https://github.com/msaadsadiq/MNIST/blob/master/MnistExamples.png)
 
 Python 3.5 
 
